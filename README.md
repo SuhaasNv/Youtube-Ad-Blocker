@@ -9,7 +9,7 @@ Welcome to the YouTube Ad Blocker Extension! This extension is designed to enhan
 - Displays a stylish notification when an ad is blocked
 
 ## Installation
-
+Make sure you create a Folder named as iocns and paste all the icon.png files in that folder.
 1. Clone or download this repository to your local machine.
 2. Open your browser and navigate to the extensions page.
    - For Chrome, go to `chrome://extensions/`
